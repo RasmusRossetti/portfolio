@@ -28,7 +28,7 @@ export const projects = [
       subtitle: "React",
       description:
         "An application made with create-react-app exporting and importing data from different files",
-      image: "https://i.ytimg.com/vi/-JO-5kmfmys/maxresdefault.jpg",
+      image: "https://res.cloudinary.com/practicaldev/image/fetch/s--b2W86bSy--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/i/q3jazgb0xjxh4pxui6ge.png",
       link: "https://github.com/RasmusRossetti/Movie-db",
     },
   ];
