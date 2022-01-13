@@ -13,7 +13,7 @@ export const projects = [
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
       image: "https://www.timeanddate.com/scripts/weather_og.php?h1=Weather&h2=Local%20Weather%20Around%20the%20World",
-      link: "https://github.com/RasmusRossetti/weather-app-react",
+      link: "https://compassionate-leakey-1289d3.netlify.app/",
     },
     {
       title: "Account app",
