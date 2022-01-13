@@ -16,20 +16,20 @@ export const projects = [
       link: "https://github.com/RasmusRossetti/weather-app-react",
     },
     {
-      title: "DevChat",
-      subtitle: "React and Firebase",
+      title: "Account app",
+      subtitle: "Html, Css , Js",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-3.gif",
-      link: "https://jsbootcamp.com",
+        "An account app made with basic html css and javascript, created to simulate an single page application without a framework.",
+      image: "https://www.jotform.com/blog/wp-content/uploads/2019/04/form-design-ultimate-guide-FFEBE9.png",
+      link: "https://github.com/RasmusRossetti/Add-account-app",
     },
     {
-      title: "Epic Todo App",
-      subtitle: "React Hooks",
+      title: "Movie database",
+      subtitle: "React",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-4.gif",
-      link: "https://pythonbootcamp.com",
+        "An application made with create-react-app exporting and importing data from different files",
+      image: "https://i.ytimg.com/vi/-JO-5kmfmys/maxresdefault.jpg",
+      link: "https://github.com/RasmusRossetti/Movie-db",
     },
   ];
 

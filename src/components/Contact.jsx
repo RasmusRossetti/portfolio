@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 
 export const Contact = () => {
 
@@ -24,6 +24,11 @@ export const Contact = () => {
       .then(() => alert("Message sent!"))
       .catch((error) => alert(error));
   }
+
+  const [state, setstate] = useState();
+  const reset = () =>{
+    setstate('')
+  };
 
 
   return (
@@ -55,13 +60,13 @@ export const Contact = () => {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 EMAIL
               </h2>
-              <a className="text-white  leading-relaxed">
+              <a href='rasmus.rossetti@hotmail.com' className="text-indigo-600 leading-relaxed">
                 rasmus.rossetti@hotmail.com
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
               </h2>
-              <p className="text-white  leading-relaxed">123-456-7890</p>
+              <p className="text-white  leading-relaxed">+46 707 64 69 30</p>
             </div>
           </div>
         </div>
@@ -86,14 +91,16 @@ export const Contact = () => {
               id="name"
               name="name"
               className="w-full bg-gray-800 rounded border border-gray-700 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-900 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
-              onChange={(e) => setName(e.target.value)}
-            />
+              value={state}
+              onChange={(e) => setName(e.target.value)  }
+            / >
           </div>
           <div className="relative mb-4">
             <label htmlFor="email" className="leading-7 text-sm text-gray-400">
               Email
             </label>
             <input
+              value={state}
               type="email"
               id="email"
               name="email"
@@ -103,18 +110,21 @@ export const Contact = () => {
           </div>
           <div className="relative mb-4">
             <label
+              
               htmlFor="message"
               className="leading-7 text-sm text-gray-400">
               Message
             </label>
             <textarea
+              value={state}
               id="message"
               name="message"
               className="w-full bg-gray-800 rounded border border-gray-700 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-900 h-32 text-base outline-none text-gray-100 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"
               onChange={(e) => setMessage(e.target.value)}
             />
           </div>
-          <button
+          <button 
+            onClick={reset}
             type="submit"
             className="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
             Submit

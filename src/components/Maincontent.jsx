@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 const maincontent = () => {
     return (
         <div className=' bg-gray-800'>
@@ -12,9 +13,9 @@ const maincontent = () => {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed text-gray-200">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+          Hi my network!
+          I am currently developing my skills as Front End Dev including several languages such as
+          HTML , CSS, Javascript and more!
           </p>
           <div className="flex justify-center">
             <a
@@ -31,9 +32,10 @@ const maincontent = () => {
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
+            id='header-image'
             className="object-cover object-center rounded"
             alt="hero"
-            src="https://images.unsplash.com/photo-1510936111840-65e151ad71bb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1190&q=80"
+            src="https://media-exp1.licdn.com/dms/image/C4D03AQGqYKLXiyN4Ew/profile-displayphoto-shrink_800_800/0/1568044409648?e=1647475200&v=beta&t=4-yJAYbUgjm799HUpSpyDC1OdAVRSapFqnfuiVUQl-A"
           />
         </div>
       </div>
