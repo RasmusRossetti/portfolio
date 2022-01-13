@@ -105,7 +105,7 @@ function Navbar2() {
               
 
                 <a
-                  href="#"
+                  href="#projects"
                   className=" text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
                 >
                   Past Work
@@ -114,20 +114,20 @@ function Navbar2() {
                 
 
                 <a
-                  href="#"
+                  href="#skills"
                   className="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
                 >
                   Skills
                 </a>
 
                 <a
-                  href="#"
+                  href="#testimonials"
                   className="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
                 >
                   Testimonials
                 </a>
                 <a
-                  href="#"
+                  href="#contact"
                   className="flex items-center text-white hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium animate-pulse text-bold"
                 >
                   Hire Me
