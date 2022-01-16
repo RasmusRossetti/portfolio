@@ -9,13 +9,15 @@ const maincontent = () => {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Rasmus.
-            <br className="hidden lg:inline-block" />I love to build amazing
+            <br className=" hidden lg:inline-block" /><br className='md:hidden sm:inline-block' /> I love to build amazing
             apps.
           </h1>
           <p className="mb-8 leading-relaxed text-gray-200">
-          Hi my network!
-          I am currently developing my skills as Front End Dev including several languages such as
-          HTML , CSS, Javascript and more!
+          
+          I am creative front end developer from Stockholm Sweden <br />
+          and i have a really strong interest in webbdevelopment and service to clients,
+          If you are interested to hire or develop something cool dont hesitate to contact me!
+          
           </p>
           <div className="flex justify-center">
             <a

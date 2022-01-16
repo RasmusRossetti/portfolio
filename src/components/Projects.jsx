@@ -1,31 +1,36 @@
-import React from 'react'
+import React, { useEffect }  from 'react'
 import { CodeIcon } from "@heroicons/react/solid";
 import { projects } from "./data";
+import Aos from 'aos';
+import 'aos/dist/aos.css';
+
 
 const Projects = () => {
+  useEffect(() => {
+    Aos.init({duration: 2000 });
+    }, []);
     return (
-        <div>
+        <div >
             <section id="projects" className="text-gray-400 bg-gray-900 body-font">
       <div className="container px-5 py-10 mx-auto text-center lg:px-40">
-        <div className="flex flex-col w-full mb-20">
-          <CodeIcon className="mx-auto inline-block w-10 mb-4" />
+        <div data-aos= 'fade-up'  className="flex flex-col w-full mb-20">
+          <CodeIcon  className="mx-auto inline-block w-10 mb-4" />
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
+            I love variety in my work progress and
+            here are some previous work ive done with different Technologies such as react and more.
           </p>
         </div>
-        <div className="flex flex-wrap -m-4">
+        <div data-aos= 'fade-right'  className="flex flex-wrap -m-4">
           {projects.map((project) => (
             <a
               href={project.link}
               key={project.image}
               className=" sm:w-1/2 w-100 p-4">
               <div className="h-56 flex relative">
-                <img
+                <img data-aos= 'fade-right'
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
                   src={project.image}

@@ -27,7 +27,7 @@ export const projects = [
       title: "Movie database",
       subtitle: "React",
       description:
-        "An application made with create-react-app exporting and importing data from different files",
+        "An application made with create-react-app exporting and importing data from different files.",
       image: "https://res.cloudinary.com/practicaldev/image/fetch/s--b2W86bSy--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/i/q3jazgb0xjxh4pxui6ge.png",
       link: "https://github.com/RasmusRossetti/Movie-db",
     },
@@ -62,6 +62,18 @@ export const projects = [
   ];
 
   export const testimonial = [
+    {
+      quote: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam fuga dolore.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam fuga dolore.",
+      image: 'https://picsum.photos/200',
+      name: 'Ola',
+      company:'Sturehof'
+    },
+    {
+      quote: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam fuga dolore.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam fuga dolore.",
+      image: 'https://picsum.photos/200',
+      name: 'Ola',
+      company:'Sturehof'
+    },
     {
       quote: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam fuga dolore.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam fuga dolore.",
       image: 'https://picsum.photos/200',

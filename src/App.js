@@ -7,15 +7,20 @@ import Navbar2 from './components/Navbar2'
 import Skills from './components/Skills'
 import Testomonials from './components/Testomonials'
 import './App.css' 
+import Aos from 'aos';
+import 'aos/dist/aos.css';
+import { useEffect } from 'react'
+
 
 function App() {
+  
   return (
     <div id='home'>
       <Navbar2 />
-      <Maincontent/>
-      <Projects/>
-      <Testomonials/>
-      <Skills/>
+      <Maincontent />
+      <Projects />
+      <Testomonials />
+      <Skills />
       <Contact/>
       <Footer/>
       
