@@ -14,7 +14,7 @@ const maincontent = () => {
           </h1>
           <p className="mb-8 text-xl leading-relaxed text-gray-200">
           
-          I am creative front end developer from Stockholm Sweden. <br />
+          I'm a creative front end developer from Stockholm Sweden. <br />
           
           
           
