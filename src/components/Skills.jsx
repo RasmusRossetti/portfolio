@@ -19,9 +19,9 @@ const Skills = () => {
             Skills &amp; Technologies
           </h1>
           <p className="text-base text-gray-300 leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi sit
-            ipsa delectus eum quo voluptas aspernatur accusantium distinctio
-            possimus est.
+           skills i've worked with and allways learning more about, These are the most common during my creations
+           and im not afraid to tackle something new. <br />
+           I love learning new technologies. 
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">

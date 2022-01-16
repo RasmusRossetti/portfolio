@@ -12,17 +12,17 @@ const maincontent = () => {
             <br className=" hidden lg:inline-block" /><br className='md:hidden sm:inline-block' /> I love to build amazing
             apps.
           </h1>
-          <p className="mb-8 leading-relaxed text-gray-200">
+          <p className="mb-8 text-xl leading-relaxed text-gray-200">
           
-          I am creative front end developer from Stockholm Sweden <br />
-          and i have a really strong interest in webbdevelopment and service to clients,
-          If you are interested to hire or develop something cool dont hesitate to contact me!
+          I am creative front end developer from Stockholm Sweden. <br />
+          
+          
           
           </p>
-          <div className="flex justify-center">
+          <div className=" flex justify-center">
             <a
               href="#contact"
-              className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
+              className=" inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 hover:animate-bounce rounded text-lg">
               Work With Me
             </a>
             <a

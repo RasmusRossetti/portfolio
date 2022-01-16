@@ -18,19 +18,19 @@ const Projects = () => {
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
             Apps I've Built
           </h1>
-          <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
+          <p className="lg:w-2/3 text-xl mx-auto leading-relaxed text-base">
             I love variety in my work progress and
-            here are some previous work ive done with different Technologies such as react and more.
+            here are some previous projects i've done with different technologies such as react and more.
           </p>
         </div>
-        <div data-aos= 'fade-right'  className="flex flex-wrap -m-4">
+        <div   className="flex flex-wrap -m-4">
           {projects.map((project) => (
-            <a
+            <a target="_blank" data-aos= 'fade-right' 
               href={project.link}
               key={project.image}
               className=" sm:w-1/2 w-100 p-4">
               <div className="h-56 flex relative">
-                <img data-aos= 'fade-right'
+                <img 
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
                   src={project.image}

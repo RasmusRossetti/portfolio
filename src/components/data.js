@@ -3,7 +3,7 @@ export const projects = [
       title: "E commerce ",
       subtitle: "HTML Css JS",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+        "Candy king E-commerce made with a fully functional cart with vanilla JS.",
       image: "https://candyking.gumlet.io/wp-content/uploads/2020/08/Candyking-Corporate_Homepage-Our-Brands.png?compress=true&quality=80&w=1000&dpr=2.6",
       link: "https://suspicious-swirles-f29d98.netlify.app/index.html",
     },
@@ -11,7 +11,7 @@ export const projects = [
       title: "Weather app",
       subtitle: "React ",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+        "Weather app made with react fetching API information and also lets user type in favorite country or city to display weather.",
       image: "https://www.timeanddate.com/scripts/weather_og.php?h1=Weather&h2=Local%20Weather%20Around%20the%20World",
       link: "https://compassionate-leakey-1289d3.netlify.app/",
     },

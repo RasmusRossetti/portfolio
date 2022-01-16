@@ -89,8 +89,7 @@ export const Contact = () => {
             Hire Me
           </h2>
           <p className="text-white  leading-relaxed mb-5">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-            suscipit officia aspernatur veritatis. Asperiores, aliquid?
+          If you are interested to hire or develop something cool dont hesitate to contact me!
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
