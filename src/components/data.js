@@ -47,7 +47,7 @@ export const projects = [
       skill: "React",
     },
     {
-      skill: "SaSS",
+      skill: "Tailwind",
     },
     {
       skill: "Css",
@@ -63,28 +63,28 @@ export const projects = [
 
   export const testimonial = [
     {
-      quote: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam fuga dolore.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam fuga dolore.",
+      quote: "Ive worked with rasmus for a couple of years he is an amazing collegue and has a great spirit and a really positive personality. He loves to work hard and has a great work pace to complete task so the deadlines he gets is never a problem.",
       image: 'https://picsum.photos/200',
-      name: 'Ola',
+      name: 'Larsson',
       company:'Sturehof'
     },
     {
       quote: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam fuga dolore.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam fuga dolore.",
-      image: 'https://picsum.photos/200',
-      name: 'Ola',
-      company:'Sturehof'
+      image: 'https://scontent-arn2-1.xx.fbcdn.net/v/t1.18169-9/15826227_10155701672729129_3431822369404621846_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=174925&_nc_ohc=XaoUfG0oe6oAX8mHab_&tn=MyjL40r6dRmW_KtD&_nc_ht=scontent-arn2-1.xx&oh=00_AT9WBneHATNvQUk4I3BT99g42AAR3MF-aFyl9EKPefP80Q&oe=620FDB9D',
+      name: 'Robin',
+      company:'Svenska Brasserier'
     },
     {
-      quote: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam fuga dolore.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam fuga dolore.",
-      image: 'https://picsum.photos/200',
-      name: 'Ola',
-      company:'Sturehof'
+      quote: "During our time as colleagues Rasmus has proved many talents such as competence, experience and great personality. First time we met i was immediately impressed by rasmus, during that time he easily surpassed his colleagues when it comes to knowledge and experience. He is also a hard worker and no problem getting work done. ",
+      image: 'https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/67492885_10157292300315498_2017281503968362496_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=174925&_nc_ohc=EufMkqVsw90AX_At0Ct&_nc_ht=scontent-arn2-1.xx&oh=00_AT_ZtJH_t0EK7b6HpEA4hrHaqbu3FfxcXOvdLHDSJUhmAA&oe=620EC232',
+      name: 'Simon',
+      company:'Stockholms Matmarknad'
     },
     {
-      quote: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam fuga dolore.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam fuga dolore.",
+      quote: "Rasmus has during his time at Svenska Brasserier been a motivated and a loyal coworker and is really appreciated among colleagues. He is highly respected among colleauges thanks to his will to help his coworkers. He has shown a high communication skill, creativity, wellorganized and has a strong responsibility. ",
       image: 'https://picsum.photos/200',
-      name: 'Ola',
-      company:'Sturehof'
+      name: 'Johannes',
+      company:'Svenska Brasserier'
     }
     
   ];

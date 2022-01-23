@@ -8,6 +8,7 @@ export const Contact = () => {
   const [name, setName] = React.useState("");
   const [email, setEmail] = React.useState("");
   const [message, setMessage] = React.useState("");
+  const [state, setstate] = useState();
 
   function encode(data) {
     return Object.keys(data)
@@ -24,16 +25,16 @@ export const Contact = () => {
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({ "form-name": "contact", name, email, message }),
     })
+      
       .then(() => alert("Message sent!"))
       .catch((error) => alert(error));
   }
 
-  const [state, setstate] = useState();
   const reset = () =>{
     setstate('')
   };
-  
-  
+
+
   useEffect(() => {
     Aos.init({duration: 2000,once: true});
     }, []);
@@ -96,6 +97,7 @@ export const Contact = () => {
               Name
             </label>
             <input
+             
               type="text"
               id="name"
               name="name"
@@ -109,6 +111,7 @@ export const Contact = () => {
               Email
             </label>
             <input
+              
               value={state}
               type="email"
               id="email"
@@ -125,6 +128,7 @@ export const Contact = () => {
               Message
             </label>
             <textarea
+              
               value={state}
               id="message"
               name="message"

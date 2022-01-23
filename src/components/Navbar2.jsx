@@ -38,7 +38,7 @@ function Navbar2() {
               </div>
               
             </div>
-            <div className="hidden md:justify-between md:flex md:absolute md:w-20 md:right-72 md:pt-2 icons">
+            <div className="hidden md:justify-between md:flex md:absolute md:w-20 md:right-72 md:pt-2 xl:right-96 icons">
             <a target="_blank" className=" m-0" href="https://www.linkedin.com/in/rasmus-rossetti-b91701141/"><FontAwesomeIcon className=" hover:text-white text-2xl text-gray-300" icon={faLinkedin} /></a>
            <a target="_blank" className=" m-0" href="https://github.com/RasmusRossetti"> <FontAwesomeIcon className=" text-2xl  text-gray-300 hover:text-white" icon={faGithub} /></a>
            </div>

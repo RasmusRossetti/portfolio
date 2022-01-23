@@ -2,14 +2,12 @@ import { Contact } from './components/Contact'
 import Footer from './components/Footer'
 import Maincontent  from './components/Maincontent'
 import Projects  from './components/Projects'
-import Navbar from './components/Navbar'
 import Navbar2 from './components/Navbar2'
 import Skills from './components/Skills'
 import Testomonials from './components/Testomonials'
 import './App.css' 
-import Aos from 'aos';
 import 'aos/dist/aos.css';
-import { useEffect } from 'react'
+
 
 
 function App() {
