@@ -27,9 +27,9 @@ export const projects = [
       title: "Firebase Todo-App",
       subtitle: "React, Firebase",
       description:
-        "An application made with create-react-app and firebase hosting a Realtime database communicating back and forth",
+        "An application made with create-react-app and firebase hosting a realtime database communicating back and forth",
       image: "https://dz2cdn1.dzone.com/storage/temp/13698471-blogfirebase.png",
-      link: "https://github.com/RasmusRossetti/Firebase-todo",
+      link: "https://github.com/RasmusRossetti/Firebase-todo-app",
     },
   ];
 
