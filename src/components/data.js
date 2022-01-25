@@ -24,12 +24,12 @@ export const projects = [
       link: "https://github.com/RasmusRossetti/Add-account-app",
     },
     {
-      title: "Movie database",
-      subtitle: "React",
+      title: "Firebase Todo-App",
+      subtitle: "React, Firebase",
       description:
-        "An application made with create-react-app exporting and importing data from different files.",
-      image: "https://res.cloudinary.com/practicaldev/image/fetch/s--b2W86bSy--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/i/q3jazgb0xjxh4pxui6ge.png",
-      link: "https://github.com/RasmusRossetti/Movie-db",
+        "An application made with create-react-app and firebase hosting a Realtime database communicating back and forth",
+      image: "https://dz2cdn1.dzone.com/storage/temp/13698471-blogfirebase.png",
+      link: "https://github.com/RasmusRossetti/Firebase-todo",
     },
   ];
 
