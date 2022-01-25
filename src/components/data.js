@@ -69,7 +69,7 @@ export const projects = [
       company:'Sturehof'
     },
     {
-      quote: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam fuga dolore.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam fuga dolore.",
+      quote: "Ive spent many years with rasmus he is a great sport and he truly has a understanding of customer service and getting work done in time. He is a very confident person and gets very well with the team, hes contribution was very much appreciated.",
       image: 'https://scontent-arn2-1.xx.fbcdn.net/v/t1.18169-9/15826227_10155701672729129_3431822369404621846_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=174925&_nc_ohc=XaoUfG0oe6oAX8mHab_&tn=MyjL40r6dRmW_KtD&_nc_ht=scontent-arn2-1.xx&oh=00_AT9WBneHATNvQUk4I3BT99g42AAR3MF-aFyl9EKPefP80Q&oe=620FDB9D',
       name: 'Robin',
       company:'Svenska Brasserier'
