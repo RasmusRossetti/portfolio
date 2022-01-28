@@ -81,7 +81,7 @@ export const projects = [
       company:'Stockholms Matmarknad'
     },
     {
-      quote: "Rasmus has during his time at Svenska Brasserier been a motivated and a loyal coworker and is really appreciated among colleagues. He is highly respected among colleauges thanks to his will to help his coworkers. He has shown a high communication skill, creativity, wellorganized and has a strong responsibility. ",
+      quote: "Rasmus has during his time at Svenska Brasserier been a motivated and a loyal coworker and is really appreciated among colleagues. He is also highly respected  thanks to his will to help his coworkers. He has shown a high communication skill, creativity, wellorganized and has a strong responsibility. ",
       image: 'https://picsum.photos/200',
       name: 'Johannes',
       company:'Svenska Brasserier'
