@@ -13,8 +13,8 @@ import 'aos/dist/aos.css';
 function App() {
   
   return (
-    <div id='home'>
-      <Navbar2 />
+    <div className='bg-gray-800' id='home'>
+      <Navbar2/>
       <Maincontent />
       <Projects />
       <Testomonials />

@@ -13,3 +13,6 @@
     width: 500px;
   }
 }
+.navbar {
+  backdrop-filter: blur(5px);
+}

@@ -3,6 +3,7 @@ import { TerminalIcon, UsersIcon } from "@heroicons/react/solid";
 import { testimonial } from "./data";
 import Aos from 'aos';
 import 'aos/dist/aos.css';
+import Navbar2 from './Navbar2';
 
 const Testomonials = () => {
   useEffect(() => {
@@ -10,6 +11,7 @@ const Testomonials = () => {
     }, []);
     return (
         <div >
+          
             <section className='bg-gray-900' id="testimonials">
       <div className="container px-5 py-10 mx-auto text-center">
         <UsersIcon data-aos= 'fade-up' className=" text-white w-10 inline-block mb-4" />
