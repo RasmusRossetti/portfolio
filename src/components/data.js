@@ -1,11 +1,11 @@
 export const projects = [
     {
-      title: "E commerce ",
-      subtitle: "HTML Css JS",
+      title: "Authentication app",
+      subtitle: "React, Redux, Firebase",
       description:
-        "Candy king E-commerce made with a fully functional cart with vanilla JS.",
-      image: "https://candyking.gumlet.io/wp-content/uploads/2020/08/Candyking-Corporate_Homepage-Our-Brands.png?compress=true&quality=80&w=1000&dpr=2.6",
-      link: "https://suspicious-swirles-f29d98.netlify.app/index.html",
+        "Authentication app with redux and running with firebase.",
+      image: "https://dylandpowers.github.io/post/how-to-use-react-redux-firebase/featured.jpg",
+      link: "https://github.com/RasmusRossetti/auth-redux-firebase-app",
     },
     {
       title: "Weather app",
