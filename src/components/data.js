@@ -3,7 +3,7 @@ export const projects = [
       title: "Authentication app",
       subtitle: "React, Redux, Firebase",
       description:
-        "Authentication app made with redux and running with firebase google Auth.",
+        "Authentication app made using redux and running with firebase google Auth.",
       image: "https://dylandpowers.github.io/post/how-to-use-react-redux-firebase/featured.jpg",
       link: "https://github.com/RasmusRossetti/auth-redux-firebase-app",
     },
