@@ -44,7 +44,7 @@ export const projects = [
       skill: "Node.js",
     },
     {
-      skill: "React",
+      skill: "SASS",
     },
     {
       skill: "Tailwind",
@@ -53,7 +53,7 @@ export const projects = [
       skill: "Css",
     },
     {
-      skill: "HMTL",
+      skill: "HTML",
     },
     {
       skill: "Javascript",
