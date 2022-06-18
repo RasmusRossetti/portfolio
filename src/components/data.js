@@ -57,6 +57,12 @@ export const projects = [
     },
     {
       skill: "Javascript",
+    },
+      {
+      skill: "Redux",
+    },
+      {
+      skill: "Express.js",
     }
     
   ];
