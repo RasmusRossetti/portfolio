@@ -27,7 +27,7 @@ export const projects = [
       title: "Firebase Todo-App",
       subtitle: "React, Firebase",
       description:
-        "An application made with create-react-app and firebase hosting a realtime database communicating back and forth",
+        "An application made with create-react-app and firebase hosting a realtime database communicating back and forth.",
       image: "https://dz2cdn1.dzone.com/storage/temp/13698471-blogfirebase.png",
       link: "https://github.com/RasmusRossetti/Firebase-todo-app",
     },
@@ -43,7 +43,7 @@ export const projects = [
       title: "Headless CMS app",
       subtitle: "React, Strapi",
       description:
-        "project was made to practise CRUD operations and communication with front and backend. Backend is run by a headless CMS (STRAPI)",
+        "project was made to practise CRUD operations and communication with front and backend. Backend is run by a headless CMS (STRAPI).",
       image: "https://miro.medium.com/max/1400/1*y5d-je-3BZUrgg0Hxf7CyA.png",
       link: "https://github.com/RasmusRossetti/CRUD-App",
     },
