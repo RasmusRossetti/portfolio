@@ -39,6 +39,14 @@ export const projects = [
       image: "https://res.cloudinary.com/practicaldev/image/fetch/s--Qhu3PUis--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y63ie8bmktwik5w3mhlg.png",
       link: "https://github.com/RasmusRossetti/full-stack",
     },
+     {
+      title: "Headless CMS app",
+      subtitle: "React, Strapi",
+      description:
+        "project was made to practise CRUD operations and communication with front and backend. Backend is run by a headless CMS (STRAPI)",
+      image: "https://miro.medium.com/max/1400/1*y5d-je-3BZUrgg0Hxf7CyA.png",
+      link: "https://github.com/RasmusRossetti/CRUD-App",
+    },
   ];
 
   export const skills = [
