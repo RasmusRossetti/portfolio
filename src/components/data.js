@@ -31,6 +31,14 @@ export const projects = [
       image: "https://dz2cdn1.dzone.com/storage/temp/13698471-blogfirebase.png",
       link: "https://github.com/RasmusRossetti/Firebase-todo-app",
     },
+    {
+      title: "Full stack App",
+      subtitle: "React, Node.js",
+      description:
+        "This project is a fullstack application with built backend server to handle requests such as the CRUD operation. The frontend is built with react-app and other dependencies.",
+      image: "https://res.cloudinary.com/practicaldev/image/fetch/s--Qhu3PUis--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y63ie8bmktwik5w3mhlg.png",
+      link: "https://github.com/RasmusRossetti/full-stack",
+    },
   ];
 
   export const skills = [
