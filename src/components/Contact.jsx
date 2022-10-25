@@ -80,7 +80,7 @@ export const Contact = () => {
             </div>
           </div>
         </div>
-        <form data-aos='zoom-in-left'
+        <form data-aos='fade-up'
               data-aos-duration="500"
           netlify
           name="contact"
