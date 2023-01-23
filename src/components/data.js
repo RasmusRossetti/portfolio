@@ -4,7 +4,7 @@ export const projects = [
       subtitle: "React, Redux, Firebase",
       description:
         "Authentication app made using redux and running with firebase google Auth.",
-      image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdylanpowers.me%2Fpost%2Fhow-to-use-react-redux-firebase%2F&psig=AOvVaw18kpLqRXA8mXcF4VAx26JL&ust=1674556085070000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNj3r9a93fwCFQAAAAAdAAAAABAE",
+      image: "https://miro.medium.com/max/1200/1*UlxxmP6ESTWYGzHFg7wDDQ.png",
       link: "https://github.com/RasmusRossetti/auth-redux-firebase-app",
     },
     {
