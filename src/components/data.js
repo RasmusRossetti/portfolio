@@ -51,6 +51,24 @@ export const projects = [
 
   export const skills = [
     {
+      skill: "Typescript",
+    },
+    {
+      skill: "C#",
+    },
+    {
+      skill: "ASP.NET",
+    },
+    {
+      skill: "Jest",
+    },
+    {
+      skill: "X unit",
+    },
+    {
+      skill: "AWS",
+    },
+    {
       skill: "React",
     },
     {
