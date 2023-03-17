@@ -84,6 +84,18 @@ export const projects = [
   ];
 
   export const testimonial = [
+       {
+      quote: "Rasmus is a talented dev with a bright future. He got acquainted with the project very well and was one of the contributors from the early stages of joining Qliro. He is also a nice and friendly guy and takes advice very professionally. You could benefit from his talent growing in your company and you have a friendly guy joining your team.",
+      image: 'https://picsum.photos/200',
+      name: 'Michel',
+      company:'Qliro'
+    },
+       {
+      quote: "At Qliro, Rasmus has proven to be a real team player. He rapidly got acquainted with agile principles as much as with JavaScript and .NET development, participating in the entire software development life cycle, from story/design, through development, production and beyond.",
+      image: 'https://picsum.photos/200',
+      name: 'Alireza',
+      company:'Qliro'
+    },
     {
       quote: "Ive worked with rasmus for a couple of years he is an amazing collegue and has a great spirit and a really positive personality. He loves to work hard and has a great work pace to complete task so the deadlines he gets is never a problem.",
       image: 'https://picsum.photos/200',
