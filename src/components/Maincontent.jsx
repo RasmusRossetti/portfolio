@@ -42,7 +42,7 @@ const maincontent = () => {
             id='header-image'
             className="object-cover object-center rounded"
             alt="hero"
-            src="https://media-exp1.licdn.com/dms/image/C4D03AQGqYKLXiyN4Ew/profile-displayphoto-shrink_800_800/0/1568044409648?e=1647475200&v=beta&t=4-yJAYbUgjm799HUpSpyDC1OdAVRSapFqnfuiVUQl-A"
+            src="https://media.licdn.com/dms/image/C4D03AQGqYKLXiyN4Ew/profile-displayphoto-shrink_800_800/0/1568044409648?e=2147483647&v=beta&t=iMYUtHAWcREV1_oWBXDvNHpYYD3pJZoAsALh1qgXu7M"
           />
         </div>
       </div>

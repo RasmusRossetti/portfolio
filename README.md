@@ -1,7 +1,7 @@
 
-Live (portfolio)
+#  Live (portfolio)
 
-#  https://relaxed-stonebraker-f8247f.netlify.app/#about
+#  https://relaxed-stonebraker-f8247f.netlify.app/
 
 # Getting Started with Create React App
 

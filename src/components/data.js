@@ -1,11 +1,11 @@
 export const projects = [
     {
-      title: "E commerce ",
-      subtitle: "HTML Css JS",
+      title: "Authentication app",
+      subtitle: "React, Redux, Firebase",
       description:
-        "Candy king E-commerce made with a fully functional cart with vanilla JS.",
-      image: "https://candyking.gumlet.io/wp-content/uploads/2020/08/Candyking-Corporate_Homepage-Our-Brands.png?compress=true&quality=80&w=1000&dpr=2.6",
-      link: "https://suspicious-swirles-f29d98.netlify.app/index.html",
+        "Authentication app made using redux and running with firebase google Auth.",
+      image: "https://miro.medium.com/max/1200/1*UlxxmP6ESTWYGzHFg7wDDQ.png",
+      link: "https://github.com/RasmusRossetti/auth-redux-firebase-app",
     },
     {
       title: "Weather app",
@@ -27,13 +27,47 @@ export const projects = [
       title: "Firebase Todo-App",
       subtitle: "React, Firebase",
       description:
-        "An application made with create-react-app and firebase hosting a realtime database communicating back and forth",
+        "An application made with create-react-app and firebase hosting a realtime database communicating back and forth.",
       image: "https://dz2cdn1.dzone.com/storage/temp/13698471-blogfirebase.png",
       link: "https://github.com/RasmusRossetti/Firebase-todo-app",
+    },
+    {
+      title: "Full stack App",
+      subtitle: "React, Node.js",
+      description:
+        "This project is a fullstack application with built backend server to handle requests such as the CRUD operation. The frontend is built with react.",
+      image: "https://res.cloudinary.com/practicaldev/image/fetch/s--Qhu3PUis--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y63ie8bmktwik5w3mhlg.png",
+      link: "https://github.com/RasmusRossetti/full-stack",
+    },
+     {
+      title: "Headless CMS app",
+      subtitle: "React, Strapi",
+      description:
+        "project was made to practise CRUD operations and communication with front and backend. Backend is run by a headless CMS (STRAPI).",
+      image: "https://miro.medium.com/max/1400/1*y5d-je-3BZUrgg0Hxf7CyA.png",
+      link: "https://github.com/RasmusRossetti/CRUD-App",
     },
   ];
 
   export const skills = [
+    {
+      skill: "Typescript",
+    },
+    {
+      skill: "C#",
+    },
+    {
+      skill: "ASP.NET",
+    },
+    {
+      skill: "Jest",
+    },
+    {
+      skill: "X unit",
+    },
+    {
+      skill: "AWS",
+    },
     {
       skill: "React",
     },
@@ -44,7 +78,7 @@ export const projects = [
       skill: "Node.js",
     },
     {
-      skill: "React",
+      skill: "SASS",
     },
     {
       skill: "Tailwind",
@@ -53,15 +87,33 @@ export const projects = [
       skill: "Css",
     },
     {
-      skill: "HMTL",
+      skill: "HTML",
     },
     {
       skill: "Javascript",
+    },
+      {
+      skill: "Redux",
+    },
+      {
+      skill: "Express.js",
     }
     
   ];
 
   export const testimonial = [
+       {
+      quote: "Rasmus is a talented dev with a bright future. He got acquainted with the project very well and was one of the contributors from the early stages of joining Qliro. He is also a nice and friendly guy and takes advice very professionally. You could benefit from his talent growing in your company and you have a friendly guy joining your team.",
+      image: 'https://picsum.photos/200',
+      name: 'Michel',
+      company:'Qliro'
+    },
+       {
+      quote: "At Qliro, Rasmus has proven to be a real team player. He rapidly got acquainted with agile principles as much as with JavaScript and .NET development, participating in the entire software development life cycle, from story/design, through development, production and beyond.",
+      image: 'https://picsum.photos/200',
+      name: 'Alireza',
+      company:'Qliro'
+    },
     {
       quote: "Ive worked with rasmus for a couple of years he is an amazing collegue and has a great spirit and a really positive personality. He loves to work hard and has a great work pace to complete task so the deadlines he gets is never a problem.",
       image: 'https://picsum.photos/200',
