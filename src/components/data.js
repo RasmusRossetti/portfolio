@@ -167,7 +167,7 @@ export const testimonial = [
     quote:
       "I had the opportunity to work alongside Rasmus when he joined Qliro as an intern and it was a pleasure to work with him. He has a friendly personality, is highly motivated to learn, and isn't hesitant to explore new areas outside his comfort zone.Rasmus proved to be a quick learner who was able to contribute to the team shortly after joining.During his internship, Rasmus had the opportunity to familiarise himself with the various phases of SDLC. He actively participated in planning sessions, conducted code reviews, and developed and released new features to production.In my opinion, Rasmus would be an excellent fit for any development position, and I highly recommend him.",
     image: "https://picsum.photos/200",
-    name: "Stelios Ladopoulos profilbild",
+    name: "Stelios Ladopoulos",
     company: "Lead Software Engineer at Qliro"
   },
   {
