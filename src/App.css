@@ -5,6 +5,9 @@
   mix-blend-mode: luminosity;
   border-radius: 100%;
 }
+body {
+  background-color: rgb(31, 41, 55);
+}
 @media only screen and (max-width: 600px) {
   #map-box {
     max-width: 250px;
